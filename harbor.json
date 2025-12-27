@@ -1,0 +1,7 @@
+{
+    "name": "Navy9 Landing Page",
+    "framework": "static",
+    "port": 3000,
+    "installCommand": "npm install -g serve",
+    "startCommand": "npx serve . -l 3000"
+}
